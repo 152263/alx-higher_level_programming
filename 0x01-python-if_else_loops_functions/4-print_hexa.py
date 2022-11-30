@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-if num in range(0, 98):
-    print("{num: d}" = "{num: h}")
+for num in range(0, 99):
+    print("{} = {}".format(num, hex(num)))
